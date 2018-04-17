@@ -4,7 +4,7 @@ Simulacro de prueba de acceso
 __________________________________________________________________________________________________________________
 Proyecto Formulario UAB:
 
-Página de caràcter “oficial” de la Universidad de Barcelona que incluye un formulario de acceso a estudios Consta de 10 preguntas de tipo test con autocorrección. Además del código se ha ideado un logo ficticio y un fondo que se utiliza en todas las páginas.
+Página de carácter “oficial” de la Universidad de Barcelona que incluye un formulario de acceso a estudios Consta de 10 preguntas de tipo test con autocorrección. Además del código se ha ideado un logo ficticio y un fondo que se utiliza en todas las páginas.
 
 Para el proyecto he creado tres html diferentes con sus respectivos js y css: INDEX, INSTRUCCIONES, TEST. Se incluye una versión escritorio y una versión responsive para dispositivos móviles.
 
